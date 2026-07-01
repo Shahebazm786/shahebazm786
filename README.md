@@ -1,8 +1,18 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=38&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=%E2%95%90%E2%95%90%E3%80%8E+SHAHEBAZ+MARKHELKAR+%E3%80%8F%E2%95%90%E2%95%90" alt="Typing SVG" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGzs6LWm9HfDA/profile-displaybackgroundimage-shrink_350_1400/B56Z7tKPbdGcAY-/0/1782095345894?e=1784764800&v=beta&t=XvDi0TXg8e7_f6Z3jJvCXdurNke_9zhg5548oPEkD9o" alt="DevOps Banner" width="100%">
+</p>
+
+<h1 align="center">🚀 DevOps Engineer Portfolio</h1>
+
+<p align="center">
+AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | GitHub Actions
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=38&duration=2000&pause=1000&color=723C75&center=true&vCenter=true&width=700&height=100&lines=%E2%95%90%E2%95%90%E3%80%8E+SHAHEBAZ+MARKHELKAR+%E3%80%8F%E2%95%90%E2%95%90" alt="Typing SVG" />
   </a>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=38&duration=200&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=%E2%9E%A4+Initializing+DevOps+Pipeline..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=38&duration=1000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=%E2%9E%A4+Initializing+DevOps+Pipeline..." alt="Typing SVG" />
   </a>
 </p>
  <p align="center">
