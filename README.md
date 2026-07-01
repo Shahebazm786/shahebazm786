@@ -13,8 +13,8 @@
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <br/>
 
-<a href="https://github.com/Shahebazm786"><img src="https://komarev.com/ghpvc/?username=Satyanarayan4434&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
-<a href="https://github.com/Shahebazm786?tab=followers"><img src="https://img.shields.io/github/followers/Satyanarayan4434?label=Followers&style=for-the-badge&color=1a73e8&labelColor=0d1117" alt="Followers" /></a>
+<a href="https://github.com/Shahebazm786"><img src="https://komarev.com/ghpvc/?username=Shahebazm786&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
+<a href="https://github.com/Shahebazm786?tab=followers"><img src="https://img.shields.io/github/followers/Shahebazm786?label=Followers&style=for-the-badge&color=1a73e8&labelColor=0d1117" alt="Followers" /></a>
 <a href="https://github.com/Shahebazm786?tab=repositories"><img src="https://img.shields.io/badge/Repos-44-00c9ff?style=for-the-badge&labelColor=0d1117" alt="Repos" /></a>
 
 </div>
